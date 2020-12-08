@@ -1,6 +1,6 @@
-# KBP-Dataset
+# KBN-Dataset
 
-**KBP-Dataset**은  Knowledge Base Population (KBP)모델을 통해 만든 데이터셋이며,  \
+**KBN-Dataset**은  Knowledge Base Population (KBP)모델을 통해 만든 데이터셋이며,  \
 한국어 데이터셋 `KBN-KO v1.0`과 영어 데이터셋 `KBN-EN v1.0`으로 구성되어 있다. \
 `KBN-KO v1.0`은 한국어-위키피디아 코퍼스에 대해 **Entity Recognition  + Relation Extraction** 기반 KBP을 사용하여 구축하였다. \
 `KBN-EN v1.0`은 영어-위키피디아 코퍼스 대해 **OpenIE + Coreference** 기반 KBP를 사용하여 구축하였다.
@@ -103,4 +103,4 @@
             ]
         ]
     },
-```"# KBP-Dataset" 
+```
